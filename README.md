@@ -1,4 +1,4 @@
-### Hi there 👋
+Explore [my resume](cv_martin_hammerchmidt.pdf).
 
 <!--
 **mhammerc/mhammerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
